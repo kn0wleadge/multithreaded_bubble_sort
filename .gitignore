@@ -1,0 +1,8 @@
+.vscode
+CMakeFiles
+CMakeCache.txt
+Makefile
+a.out
+build
+cmake_install.cmake_install
+multithreaded_bubble_sort
